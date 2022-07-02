@@ -30,8 +30,8 @@ The models have been created through ProM and BPMNDiffViz.
   - ComparisonBetween65and85_OlderThan84.png = shows the comparison of the process model of patients between 65 and 85, including 65 and the patients older than 84. 
   GED = 56
   
-  - SIRSBelowVSHigh.png = shows the comparison of the process models of patients either meeting 2 or more of the SIRS criteria or not.
+  - ComparisonSIRS.png = shows the comparison of the process models of patients either meeting 2 or more of the SIRS criteria or not.
   GED = 58
   
-  - ShorterVsLonger.png = shows the comparison of the process models of patients either having a treatment with a duration of less or more than 7 days.
+  - ComparisonWeek.png = shows the comparison of the process models of patients either having a treatment with a duration of less or more than 7 days.
   GED = 98
