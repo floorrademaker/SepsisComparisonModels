@@ -24,11 +24,11 @@ The models have been created through ProM and BPMNDiffViz.
   Included models:
   
   - ComparisonBelow65_Between65and85.png = shows the comparison of the process model of patients younger than 65 and the process model of patients between 65 and 85, including 65. 
-  GED = 44
+  GED = 72
    - ComparisonBelow65_Olderthan84.png = shows the comparison of the process model of patients younger than 65 and the process model of patients older than 84.
-  GED = 54
+  GED = 42
   - ComparisonBetween65and85_OlderThan84.png = shows the comparison of the process model of patients between 65 and 85, including 65 and the patients older than 84. 
-  GED = 56
+  GED = 60
   
   - ComparisonSIRS.png = shows the comparison of the process models of patients either meeting 2 or more of the SIRS criteria or not.
   GED = 58
